@@ -1,0 +1,26 @@
+nav ul {
+    display: block;
+    list-style: none;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+    
+}
+
+nav li {
+    padding: 20px 90px;
+    background-color: black;
+    color: white;
+    display: block;
+    
+
+}
+nav li a {
+    color: white;
+    display: block;
+    overflow: hidden;
+    text-decoration: none;
+}
+
