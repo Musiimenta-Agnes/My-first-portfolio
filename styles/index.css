@@ -79,6 +79,7 @@ background-color: darkmagenta;
 
 .hover-enlarge {
     transition: transform 0.3s ease;
+
 }
 .hover-enlarge:hover {
     transform: scale(1.2);
@@ -102,7 +103,7 @@ background-color: darkmagenta;
     font-weight: bolder;
     margin-left: 20px;
     margin-top: 8px;
-    color: gold;
+    color: blueviolet;
     font-size: x-large;
     font-family: 'Lucida Grande';
 }
@@ -111,4 +112,12 @@ color: brown;
 }
 
 
+.display1 {
+    font-weight: 900;
+    font-size: 50px;
+    color: blueviolet;
+    font-family:  'Times New Roman';
+    text-shadow: 0 0 6px blue;
+
+}
     

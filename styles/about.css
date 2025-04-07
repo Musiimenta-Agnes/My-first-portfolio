@@ -6,12 +6,12 @@
 
 
 .about-container {
-    width: 800px;
+    width: 100%;
     background-color: lightblue;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin-left: 300px;
+   
 }
 
 .about-section h1 {
@@ -46,7 +46,14 @@
     border-radius: 10px;
 }
 
+.card {
+    
+    background-color: rgb(13, 8, 39);
+ 
+    border-style: solid 5px;
+    transition: transform 0.3s ease;
 
+}
 
 
 
